@@ -73,4 +73,3 @@
 | MCP4725 | 12-bit DAC | Other | I2C | 2.7V-5.5V |
 | Buzzer Module | Active buzzer | Other | Digital | 3.3V-5V |
 | MicroSD Card Module | Data storage | Storage | SPI | 3.3V-5V |
-| NEO-6MV2 | GPS module | Communication | UART | 3.3V |
