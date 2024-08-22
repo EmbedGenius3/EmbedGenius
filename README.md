@@ -16,7 +16,7 @@
 | SHT41 | High precision temperature and humidity sensor | Sensor | I2C | 3.3V-5V |
 | SHT45 | High precision temperature and humidity sensor | Sensor | I2C | 3.3V-5V |
 | SI7021 | Temperature and humidity sensor | Sensor | I2C | 3.3V |
-| BMP085 | Pressure and temperature sensor | Sensor | I2C | 1.8V-3.6V, 5V |
+| BMP180 | Pressure and temperature sensor | Sensor | I2C | 1.8V-3.6V, 5V |
 | BMP280 | Pressure sensor | Sensor | I2C/SPI | 1.71V-3.6V |
 | MS5611 | Precision pressure and temperature sensor | Sensor | I2C/SPI | 3.3V,5V |
 | BH1750 | Light intensity sensor | Sensor | I2C | 2.4V-3.6V,5V |
